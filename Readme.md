@@ -4,13 +4,13 @@
 ### What are policy gradient methods?
 
 All of the Reinforcement learning is about finding the best strategy to solve the targeted problem. This strategy is the policy that the agent uses to interact with the environment.
-All the RL algorithms directly or indirectly is about finding the optimal policy.
+All the RL algorithms directly or indirectly are about finding the optimal policy.
 
 These policy gradient methods are methods that involve finding the policy directly.
 
 ### Using this repository
 
-The pgalgorithms are broadly classified into following categories.
+I will be implementing the following PG algorithms 
 
 - [ ] Vannila Policy Gradients
 - [X] REINFORCE
@@ -21,7 +21,7 @@ The pgalgorithms are broadly classified into following categories.
 
 ### Repository Structure
                     
-                    Readme.md
+                    |Readme.md
                     |---VPG
                     |---REINFORCE
                     |---ACTOR CRITIC 
